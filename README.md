@@ -57,11 +57,11 @@ a:active{background-color:orange;}
 
 
 <body>
-<div id="peers"> <a > <h1> Welcome to Peers.com </h1> </a> </div>
-<div id="peers"> <a href="login.html"><h1>Log In here! </h1> </a> </div>
+<div id="peers"> <a > <h1> Welcome to Peers.com </h1> </a> 
+ <a href="login.html"><h1>Log In here! </h1> </a> </div>
 
-<div id="about"><a href="Aboutsection.html"> About Us </a> </div>
-<div id="about"><a href="Contactdetails.html"> Contact Us </a> </div>
+<div id="about"><a href="Aboutsection.html"> About Us </a>
+<a href="Contactdetails.html"> Contact Us </a> </div>
 <a> <div id="quote">Connect With Your Loved Ones ! </div> </a>
 </body>
 
