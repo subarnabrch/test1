@@ -3,47 +3,31 @@
 
 <head>
 
-<title> home </title>
+
+<title> Peers.com/login </title>
 
 <style type="text/css">
 
-#peers {color:#808000;
-       text-align:center;
-       top:20px;
-bottom:200px;
-}
-
 body {height:100%;
  width:100%;
- background-image:url(global.jpg);
+ background-image:url(login.jpg);
  position:relative;
  padding-left:55px;
 font-size:20px;
 }
 
 
-#about {color:yellow;
-position:relative;
-left:10px;
-bottom:85px;
+body {text-align:center;}
+h1 {color:#uuffff; }
+
+
+#forgotpass {color:blue;
 font-size:20px;
 }
 
 
-#quote {color:#008080;
-font-style:italic;
-font-size:50px;
-text-align:center;
-top:140px;
-position:relative;
-background-color:white;
-padding-top:40px;
-padding-bottom:40px;
-background-repeat:no-repeat;
-}
-
-
-
+a:link{color:black;}
+a:visited{color:black;}
 a:hover{text-dacoration:underline;
 font-weight:bold;
 font-style:italic;}
@@ -52,19 +36,35 @@ a:active{background-color:orange;}
 
 </style>
 
+
 </head>
 
 
 
 <body>
-<div id="peers"> <a > <h1> Welcome to Peers.com </h1> </a> 
- <a href="login.html"><h1>Log In here! </h1> </a> </div>
 
-<div id="about"><a href="Aboutsection.html"> About Us </a>
-<a href="Contactdetails.html"> Contact Us </a> </div>
-<a> <div id="quote">Connect With Your Loved Ones ! </div> </a>
+<a> <img src="peer.png" height="200" title="Peers.com"/> </a>
+
+<br/>
+
+<form>
+<h1 title="if you already have one "> Log In </h1>  <br/>
+Username:  <input type="text" name="username"/> <br/> <br/>
+Password: <input type="password" name="password"/> <br/> <br/>
+Remember Me: <input type="checkbox" name="rem-my-pass"/> <br/><br/>
+<div id="forgotpass"><a href="login.html"> Forgot Password? </a>  </div>
+<input type="submit" name="login"/> <br/> <br/>
+
+<a href="signup.html" title="sign up" > New user? </a> <br/> 
+</form>
+
+<br/>
+<br/>
+<a href="Homepage.html">Back to Homepage </a> 
+<br/>
+<br/>
+<br/>
+<br/>
 </body>
-
-
 
 </html>
