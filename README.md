@@ -21,7 +21,7 @@ font-size:20px; text-align:center;
 #d h1 {color:#uuffff; }
 
 
-#forgotpass  {color:blue;
+#forgotpass a {color:blue;
 font-size:20px;
 }
 
