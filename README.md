@@ -3,7 +3,7 @@
 
 <head>
 
-<title> Peers.com/home </title>
+<title> home </title>
 
 <style type="text/css">
 
