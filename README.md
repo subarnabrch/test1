@@ -6,29 +6,7 @@
 
 <title> Peers </title>
 
-<style type="text/css">
 
-body {height:100%;
- width:100%;
- background-image:url(login.jpg);
- position:relative;
- 
-font-size:20px; text-align:center;
-}
-
-
-
-#d h1 {color:#uuffff; }
-
-
-#forgotpass a {color:blue;
-font-size:20px;
-}
-
-
-
-
-</style>
 
 
 </head>
