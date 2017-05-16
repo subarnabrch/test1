@@ -12,7 +12,7 @@ body {height:100%;
  width:100%;
  background-image:url(login.jpg);
  position:relative;
- padding-left:55px;
+ 
 font-size:20px; text-align:center;
 }
 
@@ -21,17 +21,11 @@ font-size:20px; text-align:center;
 #d h1 {color:#uuffff; }
 
 
-#forgotpass {color:blue;
+#forgotpass  {color:blue;
 font-size:20px;
 }
 
 
-a:link{color:black;}
-a:visited{color:black;}
-a:hover{text-dacoration:underline;
-font-weight:bold;
-font-style:italic;}
-a:active{background-color:orange;}
 
 
 </style>
