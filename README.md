@@ -37,7 +37,7 @@ font-size:20px;
 
 <body>
 
-<a> <img src="peer.png" height="200" title="Peers.com"/> </a>
+<a> <img src="peer.png" height="200" title="Peerssss"/> </a>
 
 <br/>
 
