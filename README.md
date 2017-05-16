@@ -4,7 +4,7 @@
 <head>
 
 
-<title> Peers.com/login </title>
+<title> Peers </title>
 
 <style type="text/css">
 
