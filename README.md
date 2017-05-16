@@ -13,12 +13,12 @@ body {height:100%;
  background-image:url(login.jpg);
  position:relative;
  padding-left:55px;
-font-size:20px;
+font-size:20px; text-align:center;
 }
 
 
-body {text-align:center;}
-h1 {color:#uuffff; }
+
+#d h1 {color:#uuffff; }
 
 
 #forgotpass {color:blue;
@@ -48,7 +48,7 @@ a:active{background-color:orange;}
 <br/>
 
 <form>
-<h1 title="if you already have one "> Log In </h1>  <br/>
+<div id="d"><h1 title="if you already have one "> Log In </h1> </div>  <br/>
 Username:  <input type="text" name="username"/> <br/> <br/>
 Password: <input type="password" name="password"/> <br/> <br/>
 Remember Me: <input type="checkbox" name="rem-my-pass"/> <br/><br/>
